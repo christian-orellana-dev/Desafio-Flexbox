@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    height: 500px;
+    width: 900px;
+    border: 1px solid gold;
+    margin: 2% 15%;
+}
+
+.fila {
+    height: auto;
+    width: auto;
+    padding: 2%;
+    border: 1px solid blueviolet;
+}
+
+.img {
+    height: auto;
+    width: 100%
+}

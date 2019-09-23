@@ -1,0 +1,25 @@
+.container {
+    height: 400px;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.fila {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block {
+    width: 200px;
+    height: 1px;
+    margin: 15px;
+    padding: 2% 2% 5% 2%;
+    background-color:
+    pink;
+    text-align: center;
+    color:
+    white;
+}

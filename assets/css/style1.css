@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.boton1 {
+    background-color: aqua;
+    color: white;
+    font-family: monospace;
+    font-size: 2em;
+    padding: 20px 40px;
+    border: 0;
+    cursor: pointer;
+}
+ 
+ /* .busqueda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+}
+
+.texto {
+    width: 70%;
+    height: 100%;
+    padding: 20px 40px;
+}
+.btnBuscar {
+    width: 30%;
+    height: 100%;
+    background-color: aqua;
+    color: white;
+    padding: 20px 40px;
+    border: 0;
+    justify-content: center;
+    align-content: center;
+}  */
